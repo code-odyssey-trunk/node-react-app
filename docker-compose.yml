@@ -23,7 +23,7 @@ services:
     ports:
       - "5000:5000"
 
-  doc_container_1:
+  doc_container_3:
     build: ./userapp
     ports:
       - "3000:3000"
