@@ -1,3 +1,3 @@
-## To get started
+# To get started
 
-# docker-compose up
+### docker-compose up
